@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LEDIS-DEMO/static/css/main.65645955.css",
+    "main.js": "/LEDIS-DEMO/static/js/main.bc8ca38c.js",
+    "static/media/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg": "/LEDIS-DEMO/static/media/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.17ce460bcb0b8087b537.jpg",
+    "index.html": "/LEDIS-DEMO/index.html",
+    "main.65645955.css.map": "/LEDIS-DEMO/static/css/main.65645955.css.map",
+    "main.bc8ca38c.js.map": "/LEDIS-DEMO/static/js/main.bc8ca38c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65645955.css",
+    "static/js/main.bc8ca38c.js"
+  ]
+}
